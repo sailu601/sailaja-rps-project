@@ -1,0 +1,13 @@
+/.project
+/.settings/
+/Dockerfile
+/README.md
+/build.xml
+/game.html
+/install-all.sh
+/maven-build.properties
+/maven-build.xml
+/pom.xml
+/scripted-pipeline
+/src/
+/target/
